@@ -1,9 +1,5 @@
 # 02022021
 
 ## To jest miejsce na Twoją reklamę
-sed - komenda, ktora pozwala na operowanie strumieniem tekstu
-i np. zastepowac poszczegolne slowa przy komendzie s 
-'s/szukaneslowo/tymjezastapic/'.
-oprocz tego sed może robić wiele innych rzeczy z teksem np. odczytywac
-jego nazwe i zapisywac nowy teksty do niego. 
-
+scp - komenda dzieki ktorej mozna kopiowac pliki z lokalnej maszyny na zewnetrzna
+i z zewnetrznej na lokalna scp posiada takze zabezpieczenia przesylania tych danych
